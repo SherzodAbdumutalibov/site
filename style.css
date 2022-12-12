@@ -26,3 +26,26 @@ h1 {
 p {
 	margin: 0px 0px 10px 0px;
 }
+a:link {
+  color: #497DDD; 
+  border-bottom: 1px dashed; 
+}
+a:visited {
+  color: #EF7D55;
+}
+a:hover {
+  color: #154088; 
+  border-bottom: .07em solid;
+}
+a:active {
+  color: #497DDD; 
+  border-bottom: 1px dashed;
+}
+a {
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  border-bottom: 2px dashed DarkOrchid;
+  padding-bottom: 3px;
+}
